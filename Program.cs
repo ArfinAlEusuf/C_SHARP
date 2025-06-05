@@ -47,7 +47,7 @@ class Test
 
         Console.WriteLine("Name: " + studentName);
         Console.WriteLine("Age: " + studentAge);
-        Console.WriteLine("Students GPA: " + gpa);
+      
         
      }
 }

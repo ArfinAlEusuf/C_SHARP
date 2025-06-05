@@ -12,3 +12,4 @@ d:\Code\c_sharp\obj\Debug\net9.0\refint\c_sharp.dll
 d:\Code\c_sharp\obj\Debug\net9.0\c_sharp.pdb
 D:\Code\c_sharp\obj\Debug\net9.0\c_sharp.genruntimeconfig.cache
 D:\Code\c_sharp\obj\Debug\net9.0\ref\c_sharp.dll
+D:\Code\c_sharp\obj\Debug\net9.0\c_sharp.sourcelink.json
